@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./lcn-mark.svg" width="96" alt="LCN Matter">
+  <img src="https://raw.githubusercontent.com/LCN-Matter/.github/main/profile/lcn-mark.png" width="96" alt="LCN Matter logo">
 </p>
 
 <h1 align="center">LCN Matter</h1>
