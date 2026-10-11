@@ -7,4 +7,5 @@ LCN Matter creates products and improves business processes, using technology wh
 - **LCN Studio** — process consulting and custom solutions.
 - **LCN Products** — products designed to reduce operational friction and improve clarity, control and scale.
 
-[Website](https://lcnmatter.com.br) · [Contact](mailto:lucas@lcnmatter.com.br)
+[Website](https://lcnmatter.com.br) · [Contact](mailto:lucas@lcnmatter.com.br) · [WhatsApp comercial](https://wa.me/5515991556848) · +55 (15) 99155-6848
+
